@@ -1,13 +1,15 @@
 div {
-    width: 300px;
+    width: 280px;
 }
 
 p {
     font-family: "Roboto Slab";
     font-size: 16px;
     background-color: #f8e71c;
+    border: solid 10px #f5a623;
     line-height: 1.4;
     /*this is the important part */
-    padding: 10px;
+    /* removing padding: 10px; */
     margin: 10px;   
+    height: 200px;
 }
